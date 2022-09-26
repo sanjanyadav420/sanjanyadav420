@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **MySkill😄**
 - 🌱 I’m currently learning at **Masai School**
 - 💬 Ask me about **Java**
-- 👨‍💻 This is [My Portfolio](https://sanjanyadav420.github.io/naveenSaini1/)
+- 👨‍💻 This is [My Portfolio](https://sanjanyadav420.github.io/Sanjan/)
 -  📄 This is [My Resume](https://1drv.ms/b/s!AhFT6_390m2CghAJWKe1650WjXTl?e=hCwmxN)
 - 📫 How to reach me: ...**sanjanyadav060@gmail.com**
 
