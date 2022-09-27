@@ -55,7 +55,7 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 <div align="center">  
                                                          
 <h3 align="left">Connect with me</h3>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naveenSain" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sanjan Yadav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sanjan-yadav-448121237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanjan Yadav" height="30" width="40" /></a>
 </p>
 </div>  
