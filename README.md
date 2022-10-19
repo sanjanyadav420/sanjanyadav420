@@ -15,7 +15,7 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 - 🌱 I’m currently learning at **Masai School**
 - 💬 Ask me about **Java**
 - 👨‍💻 This is [My Portfolio](https://sanjanyadav420.github.io/Sanjan/)
--  📄 This is [My Resume](https://1drv.ms/b/s!AhFT6_390m2CghAJWKe1650WjXTl?e=hCwmxN)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1RoVpihtn58C91UQSU7BmrSTPXaFH7G9J/view?usp=sharing)
 - 📫 How to reach me: ...**sanjanyadav060@gmail.com**
 
 
