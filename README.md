@@ -66,10 +66,6 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
 
 <div align="center">
-
-	
-  
- 
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
