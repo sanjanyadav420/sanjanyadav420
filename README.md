@@ -15,7 +15,7 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 - 👨‍💻 This is [My Portfolio](https://sanjanyadav420.github.io/sanjangithub.io/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/1s-yUs1DLcAXGPp2yXjMJKVELluT74Ai5/view?usp=share_link)
 - 📫 How to reach me: ...**sanjanyadav060@gmail.com**
-
+ 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br><br>
