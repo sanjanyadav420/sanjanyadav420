@@ -3,7 +3,7 @@
 ![MasterHead](https://squareboat.com/storage/photos/3/Blog%20Images/Backend%20Developer%20Skills.png)   
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Sanjan+Yadav!;Learning+Full+Stack+Web+Development...👨🏻‍💻;" style="width: 100%;">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">  
 <h1 align="center"> 😇(I'm Sanjan Yadav) 👋</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 I like solving puzzles and exploring new Places. Having conversation with computers is my Passion
