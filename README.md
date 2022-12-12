@@ -13,7 +13,7 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 - 🌱 I’m currently learning at **Masai School**
 - 💬 Ask me about **Java**
 - 👨‍💻 This is [My Portfolio](https://sanjanyadav420.github.io/sanjangithub.io/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1s-yUs1DLcAXGPp2yXjMJKVELluT74Ai5/view?usp=share_link)
+-  📄 This is [My Resume](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbYrC-GTvxSq0MVn5hlZMgNBXhitjx1SVxw&usqp=CAU)
 - 📫 How to reach me: ...**sanjanyadav060@gmail.com**
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
