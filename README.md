@@ -53,7 +53,6 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 
 
 
-
 <div align="center">  
                                                          
 <h3 align="left">Connect with me</h3>
