@@ -59,6 +59,7 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 <a href="https://www.linkedin.com/in/sanjan-yadav-448121237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanjan Yadav" height="30" width="40" /></a>
 </p>
 </div>  
+    
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
                                                       
