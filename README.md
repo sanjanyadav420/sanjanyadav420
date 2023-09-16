@@ -137,6 +137,14 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 <span><b>Git</b></span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 </td>
+
+<tr valign="top">
+<td width="25%" align="center">
+<span><b>C++</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png">
+</td>
+
+
 </tr>
 </tbody>
 </table>
