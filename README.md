@@ -143,6 +143,10 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 <span><b>C++</b></span><br><br>
 <img height="64px" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png">
 </td>
+<td width="25%" align="center">
+<span><b>DSA</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/128/981/981507.png">
+</td>
 
 
 </tr>
