@@ -64,7 +64,7 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 </td>
 <td width="25%" align="center">
 <span><b>LeetCode</b></span><br><br>
-<a href="https://leetcode.com/sanjanyadav060//" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="sanjanyadav060" height="70" width="70" /> </a>
+<a href="https://leetcode.com/sanjanyadav060/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="sanjanyadav060" height="70" width="70" /> </a>
 </td>
 <td width="25%" align="center">
 <span><b>Twitter</b></span><br><br>
