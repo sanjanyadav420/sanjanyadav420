@@ -48,6 +48,33 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+<h3 align="left"> </h3>
+<br>
+<h3 align="left">Connect with me :)</h3>
+<table align="center">
+<tbody>
+<tr valign="top">
+<td width="25%" align="center">
+<span><b>Linkedin</b></span><br><br>
+<a href="https://www.linkedin.com/in/sanjan-yadav-448121237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjan-yadav-448121237" height="50" width="50" /> </a>
+</td>
+<td width="25%" align="center">
+<span><b>HackerRank</b></span><br><br>
+<a href="https://www.hackerrank.com/sanjanyadav060" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png?20180109055843" alt="sanjanyadav060" height="70" width="70" /> </a>
+</td>
+<td width="25%" align="center">
+<span><b>LeetCode</b></span><br><br>
+<a href="https://leetcode.com/sanjanyadav060//" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="sanjanyadav060" height="70" width="70" /> </a>
+</td>
+<td width="25%" align="center">
+<span><b>Twitter</b></span><br><br>
+<a href="https://twitter.com/_sanjan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sanjan_1" height="50" width="50" /> </a>
+</td>
+<td width="25%" align="center">
+
+</tr>
+</tbody>
+</table>
 
 
 
@@ -56,13 +83,7 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 
 
 
-<div align="center">  
-                                                         
-<h3 align="left">Connect with me</h3>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sanjan Yadav" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sanjan-yadav-448121237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanjan Yadav" height="30" width="40" /></a>
-</p>
-</div>  
+
     
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
