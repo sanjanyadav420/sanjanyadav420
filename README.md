@@ -70,9 +70,9 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 <span><b>Twitter</b></span><br><br>
 <a href="https://twitter.com/_sanjan_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sanjan_1" height="50" width="50" /> </a>
 </td>
-<td width="25%" align="center">
 
-</tr>
+
+
 </tbody>
 </table>
 
