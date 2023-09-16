@@ -92,14 +92,59 @@ I like solving puzzles and exploring new Places. Having conversation with comput
 
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
 
+<br>
+
 <div align="center">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
- <img style="margin: 10px" src="https://icons8.com/icon/90519/spring-logo" alt="" height="50"/>
+<h3 align="left" border="0"> Languages And Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="27"/></h3>
+<br>
+<table align="center">
+<tbody>
+<tr valign="top">
+<td width="25%" align="center">
+<span><b>JAVA</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+</td>
+<td width="25%" align="center">
+<span><b>MySQL</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png">
+</td>
+<td width="25%" align="center">
+<span><b>HIBERNATE</b></span><br><br>
+<img height="64px" src="https://hibernate.org/images/hibernate-logo.svg">
+</td>
+<td width="25%" align="center">
+<span><b>SpringBoot</b></span><br><br>
+<img height="64px" src="https://user-images.githubusercontent.com/105915717/218687954-5befba11-8840-4339-baac-013125fdd1c2.png">
+</td>
+</tr>
+
+<tr valign="top">
+<td width="25%" align="center">
+<span><b>JavaScript</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
+</td>
+
+
+<td width="25%" align="center">
+<span><b>CSS</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
+</td>
+
+<td width="25%" align="center">
+<span><b>HTML</b></span><br><br>
+<img height="64px" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
+</td>
+<td width="25%" align="center">
+<span><b>Git</b></span><br><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+</td>
+</tr>
+</tbody>
+</table>
+</div> 
+
+
+<br> 
   
 
 <!--    -->
